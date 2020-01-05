@@ -26,13 +26,15 @@ var svg = d3.select("svg"),
     g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
 
 
-d3.csv("./data/PEC0_20152.csv",function(error, data) {
-
+d3.csv("./data/pax_women.csv",function(error, data) {
+    
     if (error) throw error;
 
     var anidados = d3.nest()
-        .key(function(d){return d.Perfil;})
-        .key(function(d){return d.Sector;})
+        .key(function(d){return d.ConflictType;})
+        .key(function(d){return d.Region;}) 
+        .key(function(d){return d.AgreementType;})
+        .key(function(d){return d.Women;})
         .rollup(function(leaves) { return leaves.length; })
         .entries(data);
 
@@ -64,7 +66,7 @@ d3.csv("./data/PEC0_20152.csv",function(error, data) {
 
     var legend_containers = g.selectAll(".legend-unit")
         .data(descendants.filter(function(d){
-            if(d.children && d.data.key){
+            if(d.children && d.data.key && d.depth===1){
                 return 1;
             }
         }))

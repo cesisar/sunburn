@@ -1,0 +1,1790 @@
+ConflictType,Region,AgreementType,Stage,GeWom,Women
+Government,Europe and Eurasia,Intra,SubPar,1,SI
+Government,Europe and Eurasia,Intra,Imp,1,SI
+Government,Europe and Eurasia,InterIntra,Imp,1,SI
+Government,Europe and Eurasia,InterIntra,Pre,1,SI
+Government,Europe and Eurasia,InterIntra,Imp,1,SI
+Government,Europe and Eurasia,InterIntra,Imp,1,SI
+Government,Europe and Eurasia,Intra,Pre,1,SI
+Government,Europe and Eurasia,InterIntra,Imp,1,SI
+Government,Europe and Eurasia,InterIntra,SubPar,1,SI
+Government,Europe and Eurasia,InterIntra,Imp,0,NO
+Government,Europe and Eurasia,InterIntra,Imp,1,SI
+Government,Europe and Eurasia,InterIntra,Imp,0,NO
+Government,Europe and Eurasia,InterIntra,SubPar,1,SI
+Government,Europe and Eurasia,InterIntra,Imp,1,SI
+Government,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government,Europe and Eurasia,InterIntra,Imp,1,SI
+Government,Europe and Eurasia,Intra,SubPar,1,SI
+Government,Europe and Eurasia,InterIntra,Pre,1,SI
+Government,Europe and Eurasia,Intra,SubPar,0,NO
+Government,Europe and Eurasia,Intra,SubPar,0,NO
+Territory,Cross-regional,InterIntra,SubPar,0,NO
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,Imp,0,NO
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,Pre,1,SI
+Government,Middle East and North Africa,Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,1,SI
+Government,Africa (excl MENA),InterIntra,SubPar,1,SI
+Government,Africa (excl MENA),InterIntra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),InterIntra,SubPar,1,SI
+Territory,Cross-regional,Inter,SubComp,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Ren,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Ren,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government,Middle East and North Africa,Intra,Imp,0,NO
+Government,Middle East and North Africa,Intra,SubComp,1,SI
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,SubPar,0,NO
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,SubComp,1,SI
+Government/territory,Europe and Eurasia,Intra,Imp,1,SI
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubComp,1,SI
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Ren,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Ren,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubComp,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubComp,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubComp,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Oth,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Oth,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Cross-regional,InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Imp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,Imp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,InterIntra,SubPar,0,NO
+Government,Asia and Pacific,InterIntra,SubComp,1,SI
+Government,Asia and Pacific,InterIntra,SubComp,0,NO
+Government,Asia and Pacific,InterIntra,SubPar,0,NO
+Government,Asia and Pacific,InterIntra,Pre,1,SI
+Territory,Africa (excl MENA),Inter,Imp,0,NO
+Territory,Africa (excl MENA),Inter,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Ren,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Territory,Africa (excl MENA),InterIntra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Territory,Cross-regional,Inter,Imp,0,NO
+Territory,Africa (excl MENA),Inter,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Government/territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Territory,Africa (excl MENA),Inter,Pre,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,SubComp,0,NO
+Territory,Asia and Pacific,Inter,Imp,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Territory,Asia and Pacific,Inter,Imp,0,NO
+Territory,Asia and Pacific,Inter,Pre,0,NO
+Territory,Asia and Pacific,Inter,Pre,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,Imp,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Cea,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubComp,1,SI
+Inter-group,Americas,Intra,Imp,1,SI
+Government/territory,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Imp,1,SI
+Government,Americas,Intra,Imp,1,SI
+Government,Americas,Intra,Cea,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,Pre,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,Imp,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,Pre,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,InterIntra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Ren,0,NO
+Government,Americas,Intra,Pre,0,NO
+Inter-group,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,1,SI
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,InterIntra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Cea,0,NO
+Government,Americas,Intra,Ren,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubComp,0,NO
+Government,Americas,Intra,Pre,1,SI
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubComp,0,NO
+Government,Americas,Intra,SubComp,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Ren,0,NO
+Government,Americas,Intra,Ren,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Ren,0,NO
+Government,Americas,Intra,SubComp,1,SI
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubComp,1,SI
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubComp,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubComp,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubComp,0,NO
+Government,Americas,InterIntra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Inter-group,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government,Americas,InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,1,SI
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Imp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),InterIntra,SubPar,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,SubComp,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,0,NO
+Territory,Africa (excl MENA),Inter,Pre,0,NO
+Government/territory,Asia and Pacific,InterIntra,Imp,0,NO
+Government/territory,Asia and Pacific,InterIntra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Inter-group,Asia and Pacific,Intra,Cea,0,NO
+Territory,Americas,Inter,Imp,0,NO
+Territory,Americas,Inter,SubComp,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,SubComp,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,Imp,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,SubPar,0,NO
+Territory,Americas,Inter,Cea,0,NO
+Territory,Americas,Inter,Cea,0,NO
+Government,Americas,Intra,Ren,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,SubComp,1,SI
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Territory,Africa (excl MENA),Inter,SubComp,0,NO
+Territory,Africa (excl MENA),Inter,SubComp,0,NO
+Territory,Africa (excl MENA),Inter,SubPar,0,NO
+Territory,Africa (excl MENA),Inter,Cea,0,NO
+Territory,Africa (excl MENA),Inter,SubPar,0,NO
+Territory,Africa (excl MENA),Inter,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),Inter,Pre,0,NO
+Territory,Africa (excl MENA),Inter,SubPar,0,NO
+Territory,Africa (excl MENA),Inter,SubComp,0,NO
+Territory,Africa (excl MENA),InterIntra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Territory,Cross-regional,Inter,SubComp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government/territory,Europe and Eurasia,Intra,Ren,0,NO
+Government/territory,Europe and Eurasia,Intra,Ren,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Territory,Europe and Eurasia,Intra,Pre,0,NO
+Territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government,Americas,Intra,SubComp,1,SI
+Government,Americas,Intra,Imp,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Cea,0,NO
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Ren,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Americas,InterIntra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,SubComp,1,SI
+Government/territory,Asia and Pacific,Intra,SubComp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,SubComp,0,NO
+Government/territory,Asia and Pacific,Intra,SubComp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Territory,Asia and Pacific,Inter,Pre,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Territory,Asia and Pacific,Inter,Imp,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Inter-group,Asia and Pacific,Intra,SubPar,0,NO
+Inter-group,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Cross-regional,InterIntra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,SubComp,1,SI
+Government,Middle East and North Africa,InterIntra,Imp,0,NO
+Government,Middle East and North Africa,InterIntra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,SubComp,1,SI
+Government,Middle East and North Africa,Intra,Pre,1,SI
+Government/territory,Cross-regional,Intra,SubPar,0,NO
+Government/territory,Cross-regional,Intra,Pre,0,NO
+Territory,Middle East and North Africa,Inter,SubPar,0,NO
+Inter-group,Cross-regional,Inter,Imp,0,NO
+Territory,Cross-regional,Inter,Imp,0,NO
+Inter-group,Cross-regional,Inter,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,1,SI
+Government/territory,Europe and Eurasia,Intra,Imp,1,SI
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,SubComp,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Cea,1,SI
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,1,SI
+Territory,Middle East and North Africa,InterIntra,SubPar,0,NO
+Territory,Middle East and North Africa,InterIntra,SubComp,0,NO
+Territory,Middle East and North Africa,InterIntra,Pre,0,NO
+Territory,Middle East and North Africa,InterIntra,Pre,0,NO
+Government/territory,Middle East and North Africa,Inter,Imp,0,NO
+Territory,Middle East and North Africa,Inter,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Imp,1,SI
+Government/territory,Middle East and North Africa,Intra,Imp,0,NO
+Government/territory,Middle East and North Africa,Intra,Imp,0,NO
+Government/territory,Middle East and North Africa,Intra,Imp,0,NO
+Government/territory,Middle East and North Africa,Intra,Imp,0,NO
+Government/territory,Middle East and North Africa,Intra,Imp,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,1,SI
+Government/territory,Middle East and North Africa,Intra,SubPar,1,SI
+Government/territory,Middle East and North Africa,Intra,SubPar,1,SI
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,1,SI
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,Imp,1,SI
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,1,SI
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,Imp,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubComp,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Inter-group,Cross-regional,Intra,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Government,Middle East and North Africa,Intra,Imp,0,NO
+Government,Middle East and North Africa,Intra,SubPar,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,1,SI
+Territory,Middle East and North Africa,InterIntra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,SubPar,0,NO
+Government,Africa (excl MENA),InterIntra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Ren,0,NO
+Government,Africa (excl MENA),InterIntra,SubPar,0,NO
+Government,Africa (excl MENA),InterIntra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,Cea,0,NO
+Government,Africa (excl MENA),InterIntra,Pre,0,NO
+Government,Africa (excl MENA),InterIntra,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Imp,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Imp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,Intra,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Government,Middle East and North Africa,Intra,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Government,Middle East and North Africa,Intra,Imp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,Intra,SubComp,1,SI
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,Intra,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,Intra,SubComp,1,SI
+Government,Europe and Eurasia,Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Inter-group,Africa (excl MENA),Intra,Pre,0,NO
+Inter-group,Africa (excl MENA),Intra,Pre,0,NO
+Inter-group,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Inter-group,Africa (excl MENA),Intra,Pre,0,NO
+Inter-group,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Inter-group,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,0,NO
+Government/territory,Americas,Intra,SubPar,1,SI
+Government/territory,Americas,Intra,SubPar,1,SI
+Government/territory,Americas,Intra,SubPar,1,SI
+Government/territory,Americas,Intra,SubPar,1,SI
+Government/territory,Americas,Intra,Imp,1,SI
+Government/territory,Americas,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,InterIntra,Pre,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,SubPar,0,NO
+Government/territory,Europe and Eurasia,InterIntra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Ren,0,NO
+Government/territory,Middle East and North Africa,Intra,Ren,0,NO
+Government/territory,Middle East and North Africa,InterIntra,Ren,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,0,NO
+Government/territory,Middle East and North Africa,InterIntra,Imp,0,NO
+Government/territory,Middle East and North Africa,InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,1,SI
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,Pre,0,NO
+Government,Asia and Pacific,Intra,SubComp,1,SI
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Pre,1,SI
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,Imp,1,SI
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,SubComp,1,SI
+Government,Asia and Pacific,Intra,Imp,1,SI
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,SubComp,1,SI
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,1,SI
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Pre,1,SI
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,Ren,0,NO
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Americas,Intra,SubPar,0,NO
+Government,Americas,Intra,Imp,0,NO
+Government,Americas,Intra,Cea,1,SI
+Government,Americas,Intra,Cea,0,NO
+Government,Americas,Intra,Pre,0,NO
+Government,Americas,Intra,Cea,0,NO
+Government,Americas,Intra,Cea,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),Intra,SubComp,1,SI
+Inter-group,Africa (excl MENA),Intra,Pre,1,SI
+Inter-group,Africa (excl MENA),Intra,Pre,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,Pre,0,NO
+Inter-group,Africa (excl MENA),Intra,Pre,0,NO
+Territory,Asia and Pacific,Inter,Pre,0,NO
+Territory,Asia and Pacific,Inter,Pre,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Territory,Asia and Pacific,Inter,Pre,0,NO
+Territory,Asia and Pacific,Inter,SubPar,0,NO
+Territory,Asia and Pacific,Inter,Pre,0,NO
+Territory,Cross-regional,Inter,Pre,0,NO
+Territory,Cross-regional,Inter,SubPar,0,NO
+Inter-group,Cross-regional,Inter,SubPar,0,NO
+Inter-group,Cross-regional,Intra,SubPar,1,SI
+Inter-group,Cross-regional,Intra,SubPar,1,SI
+Inter-group,Cross-regional,Intra,SubPar,0,NO
+Inter-group,Cross-regional,Intra,SubPar,1,SI
+Inter-group,Cross-regional,Intra,Imp,0,NO
+Inter-group,Cross-regional,Intra,SubPar,0,NO
+Inter-group,Middle East and North Africa,Intra,Imp,0,NO
+Inter-group,Middle East and North Africa,Intra,Imp,0,NO
+Inter-group,Middle East and North Africa,Intra,SubPar,1,SI
+Inter-group,Middle East and North Africa,Intra,Imp,0,NO
+Inter-group,Middle East and North Africa,Intra,SubPar,0,NO
+Inter-group,Middle East and North Africa,Intra,Pre,0,NO
+Inter-group,Middle East and North Africa,Intra,Pre,0,NO
+Inter-group,Middle East and North Africa,Intra,SubPar,1,SI
+Inter-group,Middle East and North Africa,Intra,SubPar,1,SI
+Inter-group,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,InterIntra,Oth,0,NO
+Government/territory,Asia and Pacific,Intra,SubComp,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,InterIntra,Imp,0,NO
+Government/territory,Asia and Pacific,InterIntra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,InterIntra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Pre,1,SI
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Cea,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,1,SI
+Government,Asia and Pacific,Intra,Pre,1,SI
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,Ren,0,NO
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,SubPar,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Inter-group,Asia and Pacific,IntraLocal,SubPar,0,NO
+Inter-group,Asia and Pacific,IntraLocal,SubPar,0,NO
+Territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,SubPar,1,SI
+Government,Asia and Pacific,Intra,Imp,1,SI
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,1,SI
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government,Cross-regional,InterIntra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Middle East and North Africa,Inter,Imp,0,NO
+Territory,Middle East and North Africa,Inter,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),InterIntra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubComp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Inter-group,Asia and Pacific,Intra,Imp,0,NO
+Inter-group,Asia and Pacific,Intra,SubPar,0,NO
+Inter-group,Asia and Pacific,Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,Cea,0,NO
+Government/territory,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government/territory,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Ren,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,0,NO
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Pre,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Inter-group,Africa (excl MENA),Intra,SubPar,0,NO
+Inter-group,Africa (excl MENA),Intra,Ren,0,NO
+Inter-group,Africa (excl MENA),Intra,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,Cea,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Imp,1,SI
+Inter-group,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),IntraLocal,SubComp,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),IntraLocal,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,Cea,0,NO
+Government,Africa (excl MENA),Intra,Imp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),Intra,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,Imp,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,1,SI
+Government/territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Government/territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Government/territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Ren,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),IntraLocal,Cea,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,Pre,1,SI
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,Pre,0,NO
+Government/territory,Africa (excl MENA),InterIntra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubComp,1,SI
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Ren,0,NO
+Government/territory,Asia and Pacific,Intra,SubPar,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,InterIntra,Imp,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,InterIntra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,InterIntra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Pre,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,SubComp,1,SI
+Government/territory,Asia and Pacific,Intra,Cea,0,NO
+Inter-group,Africa (excl MENA),IntraLocal,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,1,SI
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,Pre,1,SI
+Government/territory,Africa (excl MENA),Intra,Ren,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Pre,1,SI
+Government/territory,Africa (excl MENA),Intra,Ren,0,NO
+Government/territory,Africa (excl MENA),Intra,Imp,1,SI
+Government/territory,Africa (excl MENA),Intra,Cea,0,NO
+Government/territory,Africa (excl MENA),Intra,SubPar,0,NO
+Government/territory,Africa (excl MENA),Intra,Cea,1,SI
+Government/territory,Africa (excl MENA),Intra,Pre,0,NO
+Government/territory,Africa (excl MENA),Intra,SubComp,1,SI
+Government/territory,Africa (excl MENA),Intra,Imp,0,NO
+Territory,Africa (excl MENA),InterIntra,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Imp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,0,NO
+Government,Middle East and North Africa,Intra,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Imp,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Government,Middle East and North Africa,IntraLocal,Oth,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government,Middle East and North Africa,InterIntra,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Imp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Imp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Oth,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Oth,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Oth,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Cea,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,1,SI
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,1,SI
+Inter-group,Middle East and North Africa,Intra,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Ren,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,1,SI
+Other,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Oth,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubComp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,1,SI
+Government,Middle East and North Africa,InterIntra,Pre,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,0,NO
+Government,Middle East and North Africa,InterIntra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Pre,1,SI
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,SubPar,0,NO
+Government,Europe and Eurasia,Intra,Imp,0,NO
+Government,Europe and Eurasia,Intra,SubPar,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,SubPar,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Imp,0,NO
+Government,Europe and Eurasia,Intra,Imp,0,NO
+Government,Europe and Eurasia,Intra,Ren,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,SubPar,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Pre,0,NO
+Government,Europe and Eurasia,Intra,Cea,0,NO
+Government,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Asia and Pacific,Intra,Pre,0,NO
+Government,Africa (excl MENA),Intra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Imp,1,SI
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Government,Africa (excl MENA),Intra,Imp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,0,NO
+Government,Africa (excl MENA),Intra,Cea,1,SI
+Territory,Europe and Eurasia,Intra,Ren,0,NO
+Government/territory,Europe and Eurasia,Intra,Ren,0,NO
+Government/territory,Europe and Eurasia,Intra,Imp,0,NO
+Government/territory,Europe and Eurasia,Intra,Cea,0,NO
+Government/territory,Europe and Eurasia,Intra,SubPar,0,NO
+Government/territory,Europe and Eurasia,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,Intra,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Oth,0,NO
+Government,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,Intra,Pre,0,NO
+Government/territory,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government/territory,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government/territory,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,Cea,1,SI
+Government/territory,Middle East and North Africa,Intra,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,Cea,0,NO
+Government/territory,Middle East and North Africa,IntraLocal,Pre,0,NO
+Government,Middle East and North Africa,Intra,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government/territory,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Government/territory,Middle East and North Africa,Intra,Imp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,SubPar,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,SubPar,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Pre,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,Intra,Imp,0,NO
+Government,Middle East and North Africa,Intra,Imp,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Inter-group,Middle East and North Africa,IntraLocal,Cea,0,NO
+Government,Middle East and North Africa,Intra,Imp,0,NO
+Government,Middle East and North Africa,Intra,SubPar,1,SI
+Government,Middle East and North Africa,Intra,SubPar,0,NO
+Government,Middle East and North Africa,Intra,SubPar,0,NO
+Government,Middle East and North Africa,Intra,Cea,0,NO
+Government,Middle East and North Africa,Intra,Cea,0,NO
+Government/territory,Middle East and North Africa,Intra,Cea,0,NO
+Territory,Middle East and North Africa,InterIntra,SubPar,0,NO
+Government,Africa (excl MENA),Intra,SubComp,1,SI
+Government,Africa (excl MENA),Intra,SubPar,1,SI
+Government,Africa (excl MENA),Intra,Pre,0,NO
